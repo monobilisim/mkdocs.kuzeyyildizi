@@ -1,0 +1,15 @@
+site_name: Kuzey Yıldızı
+site_url: http://127.0.0.1:8000/
+nav:
+  - Home: index.md
+  - Sayı 1: 1.md
+  - Sayı 2: 2.md
+  - Sayı 3: 3.md
+  - Sayı 4: 4.md
+  - Sayı 5: 5.md
+  - Sayı 6: 6.md
+  - Sayı 7: 7.md
+  - Sayı 8: 8.md
+  - Sayı 9: 9.md
+  - Sayı 10: 10.md
+theme: material
