@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Tema seçenekleri: [MkDocs Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+
+Kullanılan tema: [MkDocs Material](https://github.com/squidfunk/mkdocs-material)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.

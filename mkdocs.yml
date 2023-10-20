@@ -1,7 +1,7 @@
 site_name: Kuzey Yıldızı
-site_url: http://127.0.0.1:8000/
+site_url: https://monobilisim.github.io/mkdocs.kuzeyyildizi/
 nav:
-  - Home: index.md
+  - Ana Sayfa: index.md
   - Sayı 1: 1.md
   - Sayı 2: 2.md
   - Sayı 3: 3.md
@@ -12,4 +12,39 @@ nav:
   - Sayı 8: 8.md
   - Sayı 9: 9.md
   - Sayı 10: 10.md
-theme: material
+
+theme:
+  name: material
+  language: tr 
+  logo: images/ky_400x400.png
+  favicon: images/ky_400x400.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/eye
+        name: Karanlık mod
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/eye-outline
+        name: Aydınlık mod
+  features:
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/kuzeyyildiziedebiyatdergisi
+      name: Kuzey Yıldızı'nı Facebook'da görüntüleyin.
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/kuzeyyildizi
+      name: Kuzey Yıldızı'nı X'de görüntüleyin.
+  generator: false
+
+copyright: Kuzey Yıldızı Edebiyat Dergisi PK 200 34711 Kadıköy / İstanbul

@@ -1,1 +1,1 @@
-# [mkdocs.kuzeyyildizi](https://monobilisim.github.io/mkdocs.kuzeyyildizi.github.io/)
+# [mkdocs.kuzeyyildizi](https://monobilisim.github.io/mkdocs.kuzeyyildizi/)
